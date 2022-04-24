@@ -18,5 +18,4 @@ public class BubbleSortJava<T extends Comparable<T>> {
     }
     return output;
   }
-
 }
